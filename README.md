@@ -1,4 +1,4 @@
-# Nerfies
+# HARP
 
 This is the repository that contains source code for the [HARP website](https://korrawe.github.io/harp-page/).
 
